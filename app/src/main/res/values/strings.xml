@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CadastroCarros</string>
+    <string-array name="combustiveis">
+        <item>Gasolina</item>
+        <item>Alcool</item>
+        <item>Flex</item>
+    </string-array>
+</resources>
